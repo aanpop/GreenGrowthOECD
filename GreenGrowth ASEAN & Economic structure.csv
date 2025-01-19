@@ -1,0 +1,1021 @@
+﻿REF_AREA,Year,Variable,Value,Log_Value
+BRN,2005,"Energy productivity, GDP per unit of TES",11606.39,9.359397243
+BRN,2006,"Energy productivity, GDP per unit of TES",8527.33,9.051148842
+BRN,2007,"Energy productivity, GDP per unit of TES",8340.18,9.028959972
+BRN,2008,"Energy productivity, GDP per unit of TES",7450.21,8.916131714
+BRN,2009,"Energy productivity, GDP per unit of TES",8521.06,9.050413375
+BRN,2010,"Energy productivity, GDP per unit of TES",8209.52,9.013171538
+BRN,2011,"Energy productivity, GDP per unit of TES",7125.93,8.871635846
+BRN,2012,"Energy productivity, GDP per unit of TES",7271.44,8.89184714
+BRN,2013,"Energy productivity, GDP per unit of TES",8960.05,9.100642687
+BRN,2014,"Energy productivity, GDP per unit of TES",7477.28,8.919758098
+BRN,2015,"Energy productivity, GDP per unit of TES",9741.72,9.184275618
+BRN,2016,"Energy productivity, GDP per unit of TES",8616.7,9.061573507
+BRN,2017,"Energy productivity, GDP per unit of TES",7209.59,8.883306058
+BRN,2018,"Energy productivity, GDP per unit of TES",7200.06,8.881983516
+BRN,2019,"Energy productivity, GDP per unit of TES",6661.73,8.804284589
+BRN,2020,"Energy productivity, GDP per unit of TES",6698,8.809713541
+BRN,2021,"Energy productivity, GDP per unit of TES",6683.8,8.807591571
+BRN,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.34,1.846878768
+BRN,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.72,1.5518088
+BRN,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.93,1.595338988
+BRN,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.65,1.53686722
+BRN,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.49,1.501852702
+BRN,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.88,1.58514522
+BRN,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.94,1.597365331
+BRN,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4,1.609437912
+BRN,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.98,1.605429891
+BRN,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.97,1.60341984
+BRN,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.43,1.691939134
+BRN,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.03,1.615419984
+BRN,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.9,1.589235205
+BRN,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.66,1.539015448
+BRN,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.08,1.625311262
+BRN,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",2.99,1.383791231
+BRN,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",2.97,1.378766095
+BRN,2005,Real GDP per capita,71738.39,11.18079525
+BRN,2006,Real GDP per capita,73712.91,11.2079468
+BRN,2007,Real GDP per capita,72590.69,11.19260573
+BRN,2008,Real GDP per capita,69878.69,11.15453033
+BRN,2009,Real GDP per capita,67368.97,11.11795465
+BRN,2010,Real GDP per capita,67819.79,11.12462406
+BRN,2011,Real GDP per capita,69116.7,11.14356613
+BRN,2012,Real GDP per capita,68686.85,11.13732761
+BRN,2013,Real GDP per capita,66303.56,11.10201395
+BRN,2014,Real GDP per capita,63779.84,11.06320811
+BRN,2015,Real GDP per capita,62707.88,11.04625834
+BRN,2016,Real GDP per capita,60388.48,11.0085702
+BRN,2017,Real GDP per capita,60454.42,11.00966151
+BRN,2018,Real GDP per capita,59790.01,10.99861059
+BRN,2019,Real GDP per capita,61420.12,11.02550903
+BRN,2020,Real GDP per capita,61460.53,11.02616673
+BRN,2021,Real GDP per capita,59904.82,11.00052894
+BRN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.00974611,
+BRN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.007547425,
+BRN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.007263425,
+BRN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.006921662,
+BRN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.009799175,
+BRN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.007333501,
+BRN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.005727753,
+BRN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.006551565,
+BRN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.006849375,
+BRN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.008628275,
+BRN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.011032124,
+BRN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.012036549,
+BRN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.01086451,
+BRN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.010176417,
+BRN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.009860551,
+BRN,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.012175029,
+BRN,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.0125629,
+BRN,2005,"Industry (including construction), value added (% of GDP)",0.731530053,
+BRN,2006,"Industry (including construction), value added (% of GDP)",0.749262612,
+BRN,2007,"Industry (including construction), value added (% of GDP)",0.733951064,
+BRN,2008,"Industry (including construction), value added (% of GDP)",0.764320818,
+BRN,2009,"Industry (including construction), value added (% of GDP)",0.672954811,
+BRN,2010,"Industry (including construction), value added (% of GDP)",0.686533507,
+BRN,2011,"Industry (including construction), value added (% of GDP)",0.736724144,
+BRN,2012,"Industry (including construction), value added (% of GDP)",0.726556143,
+BRN,2013,"Industry (including construction), value added (% of GDP)",0.700224439,
+BRN,2014,"Industry (including construction), value added (% of GDP)",0.678496306,
+BRN,2015,"Industry (including construction), value added (% of GDP)",0.613627777,
+BRN,2016,"Industry (including construction), value added (% of GDP)",0.572893641,
+BRN,2017,"Industry (including construction), value added (% of GDP)",0.597205892,
+BRN,2018,"Industry (including construction), value added (% of GDP)",0.632448184,
+BRN,2019,"Industry (including construction), value added (% of GDP)",0.625153214,
+BRN,2020,"Industry (including construction), value added (% of GDP)",0.591336301,
+BRN,2021,"Industry (including construction), value added (% of GDP)",0.627015641,
+BRN,2005,"Services, value added (% of GDP)",0.277621281,
+BRN,2006,"Services, value added (% of GDP)",0.262087407,
+BRN,2007,"Services, value added (% of GDP)",0.277682954,
+BRN,2008,"Services, value added (% of GDP)",0.247654965,
+BRN,2009,"Services, value added (% of GDP)",0.336143458,
+BRN,2010,"Services, value added (% of GDP)",0.325030437,
+BRN,2011,"Services, value added (% of GDP)",0.273573206,
+BRN,2012,"Services, value added (% of GDP)",0.282803648,
+BRN,2013,"Services, value added (% of GDP)",0.312458792,
+BRN,2014,"Services, value added (% of GDP)",0.328360355,
+BRN,2015,"Services, value added (% of GDP)",0.394304338,
+BRN,2016,"Services, value added (% of GDP)",0.429760418,
+BRN,2017,"Services, value added (% of GDP)",0.408510761,
+BRN,2018,"Services, value added (% of GDP)",0.373375696,
+BRN,2019,"Services, value added (% of GDP)",0.381775986,
+BRN,2020,"Services, value added (% of GDP)",0.414503547,
+BRN,2021,"Services, value added (% of GDP)",0.376286451,
+IDN,2005,"Energy productivity, GDP per unit of TES",10291.43,9.239163953
+IDN,2006,"Energy productivity, GDP per unit of TES",10609.82,9.269629514
+IDN,2007,"Energy productivity, GDP per unit of TES",11401.1,9.341552828
+IDN,2008,"Energy productivity, GDP per unit of TES",11857.24,9.380778264
+IDN,2009,"Energy productivity, GDP per unit of TES",11488.54,9.349192335
+IDN,2010,"Energy productivity, GDP per unit of TES",11630.64,9.36148425
+IDN,2011,"Energy productivity, GDP per unit of TES",11980.14,9.391089026
+IDN,2012,"Energy productivity, GDP per unit of TES",12683.8,9.448159705
+IDN,2013,"Energy productivity, GDP per unit of TES",13724.88,9.527038381
+IDN,2014,"Energy productivity, GDP per unit of TES",13764.59,9.529927279
+IDN,2015,"Energy productivity, GDP per unit of TES",14483.13,9.580808846
+IDN,2016,"Energy productivity, GDP per unit of TES",14694.94,9.595326544
+IDN,2017,"Energy productivity, GDP per unit of TES",14663.19,9.593163746
+IDN,2018,"Energy productivity, GDP per unit of TES",13876.04,9.537990955
+IDN,2019,"Energy productivity, GDP per unit of TES",13811.42,9.533323466
+IDN,2020,"Energy productivity, GDP per unit of TES",14078.41,9.552468725
+IDN,2021,"Energy productivity, GDP per unit of TES",14240.26,9.563898664
+IDN,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.77,1.752672081
+IDN,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.71,1.742219024
+IDN,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.78,1.754403683
+IDN,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.14,1.814824742
+IDN,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.16,1.818076778
+IDN,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.12,1.811562097
+IDN,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.73,1.745715531
+IDN,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5,1.791759469
+IDN,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.64,1.893111963
+IDN,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.53,1.876406943
+IDN,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.72,1.905088155
+IDN,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.12,1.962907725
+IDN,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.1,1.960094784
+IDN,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.72,1.905088155
+IDN,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.6,1.887069649
+IDN,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.88,1.928618652
+IDN,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.84,1.922787732
+IDN,2005,Real GDP per capita,6691.85,8.808795071
+IDN,2006,Real GDP per capita,6966.72,8.849043334
+IDN,2007,Real GDP per capita,7311.32,8.897315876
+IDN,2008,Real GDP per capita,7649.11,8.942475306
+IDN,2009,Real GDP per capita,7903,8.975124239
+IDN,2010,Real GDP per capita,8295.31,9.023566117
+IDN,2011,Real GDP per capita,8689.2,9.069951233
+IDN,2012,Real GDP per capita,9089.46,9.114980791
+IDN,2013,Real GDP per capita,9466.81,9.155652903
+IDN,2014,Real GDP per capita,9811.31,9.191392999
+IDN,2015,Real GDP per capita,10271.23,9.237199417
+IDN,2016,Real GDP per capita,10666.8,9.274985137
+IDN,2017,Real GDP per capita,11084.98,9.313436526
+IDN,2018,Real GDP per capita,11534.71,9.353202721
+IDN,2019,Real GDP per capita,11988.84,9.391814903
+IDN,2020,Real GDP per capita,11624,9.36091323
+IDN,2021,Real GDP per capita,11937.3,9.387506998
+IDN,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.131266186,
+IDN,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.129738027,
+IDN,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.137166831,
+IDN,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.144817403,
+IDN,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.152901482,
+IDN,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.139292127,
+IDN,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.135122871,
+IDN,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.133739742,
+IDN,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.133566992,
+IDN,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.13336755,
+IDN,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.134926436,
+IDN,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.134787486,
+IDN,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.131566309,
+IDN,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.128084976,
+IDN,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.127126027,
+IDN,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.136984143,
+IDN,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.132801691,
+IDN,2005,"Industry (including construction), value added (% of GDP)",0.465410589,
+IDN,2006,"Industry (including construction), value added (% of GDP)",0.469435587,
+IDN,2007,"Industry (including construction), value added (% of GDP)",0.467991415,
+IDN,2008,"Industry (including construction), value added (% of GDP)",0.480607448,
+IDN,2009,"Industry (including construction), value added (% of GDP)",0.476521226,
+IDN,2010,"Industry (including construction), value added (% of GDP)",0.427758663,
+IDN,2011,"Industry (including construction), value added (% of GDP)",0.439134234,
+IDN,2012,"Industry (including construction), value added (% of GDP)",0.435937444,
+IDN,2013,"Industry (including construction), value added (% of GDP)",0.426356774,
+IDN,2014,"Industry (including construction), value added (% of GDP)",0.419283421,
+IDN,2015,"Industry (including construction), value added (% of GDP)",0.400478624,
+IDN,2016,"Industry (including construction), value added (% of GDP)",0.39308444,
+IDN,2017,"Industry (including construction), value added (% of GDP)",0.393791548,
+IDN,2018,"Industry (including construction), value added (% of GDP)",0.397297375,
+IDN,2019,"Industry (including construction), value added (% of GDP)",0.38951768,
+IDN,2020,"Industry (including construction), value added (% of GDP)",0.382383937,
+IDN,2021,"Industry (including construction), value added (% of GDP)",0.398448192,
+IDN,2005,"Services, value added (% of GDP)",0.403323225,
+IDN,2006,"Services, value added (% of GDP)",0.400826385,
+IDN,2007,"Services, value added (% of GDP)",0.394841754,
+IDN,2008,"Services, value added (% of GDP)",0.37457515,
+IDN,2009,"Services, value added (% of GDP)",0.370577299,
+IDN,2010,"Services, value added (% of GDP)",0.406659903,
+IDN,2011,"Services, value added (% of GDP)",0.405846042,
+IDN,2012,"Services, value added (% of GDP)",0.408733749,
+IDN,2013,"Services, value added (% of GDP)",0.415165375,
+IDN,2014,"Services, value added (% of GDP)",0.422421853,
+IDN,2015,"Services, value added (% of GDP)",0.433090809,
+IDN,2016,"Services, value added (% of GDP)",0.436417488,
+IDN,2017,"Services, value added (% of GDP)",0.436140553,
+IDN,2018,"Services, value added (% of GDP)",0.434048373,
+IDN,2019,"Services, value added (% of GDP)",0.442207458,
+IDN,2020,"Services, value added (% of GDP)",0.4441344,
+IDN,2021,"Services, value added (% of GDP)",0.428228206,
+KHM,2005,"Energy productivity, GDP per unit of TES",6880.96,8.836658774
+KHM,2006,"Energy productivity, GDP per unit of TES",7423.98,8.91260527
+KHM,2007,"Energy productivity, GDP per unit of TES",7832.85,8.966209367
+KHM,2008,"Energy productivity, GDP per unit of TES",8281.74,9.021929111
+KHM,2009,"Energy productivity, GDP per unit of TES",7764.41,8.957434535
+KHM,2010,"Energy productivity, GDP per unit of TES",7804.82,8.962624888
+KHM,2011,"Energy productivity, GDP per unit of TES",8184.9,9.010168441
+KHM,2012,"Energy productivity, GDP per unit of TES",8420.57,9.038551551
+KHM,2013,"Energy productivity, GDP per unit of TES",8806.92,9.083406596
+KHM,2014,"Energy productivity, GDP per unit of TES",8724.48,9.07400276
+KHM,2015,"Energy productivity, GDP per unit of TES",8717.49,9.073201337
+KHM,2016,"Energy productivity, GDP per unit of TES",8452.37,9.042320457
+KHM,2017,"Energy productivity, GDP per unit of TES",8787.54,9.081203879
+KHM,2018,"Energy productivity, GDP per unit of TES",8861.9,9.089629304
+KHM,2019,"Energy productivity, GDP per unit of TES",8441.13,9.040989925
+KHM,2020,"Energy productivity, GDP per unit of TES",7642.65,8.941630517
+KHM,2021,"Energy productivity, GDP per unit of TES",7987.33,8.985737006
+KHM,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.97,2.395164274
+KHM,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.9,2.388762789
+KHM,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.96,2.298577072
+KHM,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.36,2.337952237
+KHM,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.85,2.180417459
+KHM,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.67,2.159868791
+KHM,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.94,2.190535589
+KHM,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.1,2.208274414
+KHM,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.63,2.264883226
+KHM,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.51,2.141241943
+KHM,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.65,2.034705648
+KHM,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.73,1.906575144
+KHM,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.71,1.903598951
+KHM,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.21,1.975468951
+KHM,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.33,1.845300236
+KHM,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.96,1.785070481
+KHM,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.18,1.821318271
+KHM,2005,Real GDP per capita,1970.65,7.586626035
+KHM,2006,Real GDP per capita,2150.93,7.674120393
+KHM,2007,Real GDP per capita,2335.87,7.756567706
+KHM,2008,Real GDP per capita,2454.63,7.806138626
+KHM,2009,Real GDP per capita,2418.33,7.791245921
+KHM,2010,Real GDP per capita,2522.97,7.833588338
+KHM,2011,Real GDP per capita,2660.62,7.886690239
+KHM,2012,Real GDP per capita,2812.69,7.942252068
+KHM,2013,Real GDP per capita,2974.8,7.998268189
+KHM,2014,Real GDP per capita,3140.38,8.052417473
+KHM,2015,Real GDP per capita,3310.44,8.105138419
+KHM,2016,Real GDP per capita,3488.7,8.157571052
+KHM,2017,Real GDP per capita,3681.58,8.211368872
+KHM,2018,Real GDP per capita,3907.66,8.270949883
+KHM,2019,Real GDP per capita,4130.82,8.326473267
+KHM,2020,Real GDP per capita,3944.51,8.280333502
+KHM,2021,Real GDP per capita,4004.3,8.295373763
+KHM,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.274457889,
+KHM,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.262857429,
+KHM,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.254656283,
+KHM,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.28034087,
+KHM,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.280893239,
+KHM,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.278742917,
+KHM,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.280358545,
+KHM,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.267953499,
+KHM,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.244471551,
+KHM,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.221938152,
+KHM,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.201408489,
+KHM,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.189079816,
+KHM,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.178681772,
+KHM,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.164979479,
+KHM,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.154385065,
+KHM,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.170396523,
+KHM,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.169044144,
+KHM,2005,"Industry (including construction), value added (% of GDP)",0.27419247,
+KHM,2006,"Industry (including construction), value added (% of GDP)",0.290700226,
+KHM,2007,"Industry (including construction), value added (% of GDP)",0.281400351,
+KHM,2008,"Industry (including construction), value added (% of GDP)",0.260495967,
+KHM,2009,"Industry (including construction), value added (% of GDP)",0.255665163,
+KHM,2010,"Industry (including construction), value added (% of GDP)",0.260088985,
+KHM,2011,"Industry (including construction), value added (% of GDP)",0.266606927,
+KHM,2012,"Industry (including construction), value added (% of GDP)",0.276110298,
+KHM,2013,"Industry (including construction), value added (% of GDP)",0.289581198,
+KHM,2014,"Industry (including construction), value added (% of GDP)",0.299169917,
+KHM,2015,"Industry (including construction), value added (% of GDP)",0.314639052,
+KHM,2016,"Industry (including construction), value added (% of GDP)",0.330562095,
+KHM,2017,"Industry (including construction), value added (% of GDP)",0.342980809,
+KHM,2018,"Industry (including construction), value added (% of GDP)",0.368714238,
+KHM,2019,"Industry (including construction), value added (% of GDP)",0.390455947,
+KHM,2020,"Industry (including construction), value added (% of GDP)",0.374576123,
+KHM,2021,"Industry (including construction), value added (% of GDP)",0.403205086,
+KHM,2005,"Services, value added (% of GDP)",0.393541366,
+KHM,2006,"Services, value added (% of GDP)",0.39112758,
+KHM,2007,"Services, value added (% of GDP)",0.391671078,
+KHM,2008,"Services, value added (% of GDP)",0.394864615,
+KHM,2009,"Services, value added (% of GDP)",0.39787601,
+KHM,2010,"Services, value added (% of GDP)",0.397207719,
+KHM,2011,"Services, value added (% of GDP)",0.390826289,
+KHM,2012,"Services, value added (% of GDP)",0.394003358,
+KHM,2013,"Services, value added (% of GDP)",0.404061548,
+KHM,2014,"Services, value added (% of GDP)",0.416886644,
+KHM,2015,"Services, value added (% of GDP)",0.422063049,
+KHM,2016,"Services, value added (% of GDP)",0.417636315,
+KHM,2017,"Services, value added (% of GDP)",0.414183128,
+KHM,2018,"Services, value added (% of GDP)",0.402202511,
+KHM,2019,"Services, value added (% of GDP)",0.39137725,
+KHM,2020,"Services, value added (% of GDP)",0.391436353,
+KHM,2021,"Services, value added (% of GDP)",0.364869249,
+LAO,2005,"Energy productivity, GDP per unit of TES",10146.01,9.22493436
+LAO,2006,"Energy productivity, GDP per unit of TES",10085.99,9.219001754
+LAO,2007,"Energy productivity, GDP per unit of TES",9890.71,9.199452312
+LAO,2008,"Energy productivity, GDP per unit of TES",9747.99,9.184918969
+LAO,2009,"Energy productivity, GDP per unit of TES",9990.95,9.209535048
+LAO,2010,"Energy productivity, GDP per unit of TES",10556.4,9.264582315
+LAO,2011,"Energy productivity, GDP per unit of TES",11271.32,9.330105442
+LAO,2012,"Energy productivity, GDP per unit of TES",11827.92,9.378302659
+LAO,2013,"Energy productivity, GDP per unit of TES",12158.86,9.405895642
+LAO,2014,"Energy productivity, GDP per unit of TES",12564.35,9.438698305
+LAO,2015,"Energy productivity, GDP per unit of TES",10104.01,9.220786619
+LAO,2016,"Energy productivity, GDP per unit of TES",8503.08,9.048301327
+LAO,2017,"Energy productivity, GDP per unit of TES",8311.51,9.025516888
+LAO,2018,"Energy productivity, GDP per unit of TES",8758.97,9.077947759
+LAO,2019,"Energy productivity, GDP per unit of TES",9366.69,9.145021813
+LAO,2020,"Energy productivity, GDP per unit of TES",10344.25,9.244282756
+LAO,2021,"Energy productivity, GDP per unit of TES",10084.88,9.218891705
+LAO,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",16.7,2.87356464
+LAO,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",14.14,2.717340248
+LAO,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",14.31,2.72850621
+LAO,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.86,2.629006994
+LAO,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.16,2.577181926
+LAO,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.76,2.546315278
+LAO,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.04,2.568021556
+LAO,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.27,2.585505848
+LAO,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",10.75,2.463853241
+LAO,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.01,2.485739636
+LAO,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.38,1.853168097
+LAO,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.08,1.406096988
+LAO,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",2.7,1.30833282
+LAO,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",2.82,1.340250423
+LAO,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.08,1.406096988
+LAO,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.16,1.425515074
+LAO,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.06,1.401182974
+LAO,2005,Real GDP per capita,3296.04,8.100780375
+LAO,2006,Real GDP per capita,3523.9,8.167607346
+LAO,2007,Real GDP per capita,3733.36,8.225331731
+LAO,2008,Real GDP per capita,3964.78,8.285457836
+LAO,2009,Real GDP per capita,4198.92,8.342820756
+LAO,2010,Real GDP per capita,4490.38,8.409915283
+LAO,2011,Real GDP per capita,4781.6,8.472739611
+LAO,2012,Real GDP per capita,5092.17,8.535655705
+LAO,2013,Real GDP per capita,5424,8.598773178
+LAO,2014,Real GDP per capita,5756.93,8.658333314
+LAO,2015,Real GDP per capita,6086.07,8.713922128
+LAO,2016,Real GDP per capita,6412.46,8.766154186
+LAO,2017,Real GDP per capita,6747.64,8.817096282
+LAO,2018,Real GDP per capita,7058.7,8.862157837
+LAO,2019,Real GDP per capita,7331.23,8.900034978
+LAO,2020,Real GDP per capita,7258.87,8.890117201
+LAO,2021,Real GDP per capita,7335.91,8.900673052
+LAO,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.282951353,
+LAO,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.267296699,
+LAO,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.257881487,
+LAO,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.241764814,
+LAO,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.242053771,
+LAO,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.225957941,
+LAO,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.207912552,
+LAO,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.185484866,
+LAO,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.179304984,
+LAO,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.178487918,
+LAO,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.175877597,
+LAO,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.172301766,
+LAO,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.161997599,
+LAO,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.157091868,
+LAO,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.160503391,
+LAO,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.163377624,
+LAO,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.16067697,
+LAO,2005,"Industry (including construction), value added (% of GDP)",0.232287896,
+LAO,2006,"Industry (including construction), value added (% of GDP)",0.261754513,
+LAO,2007,"Industry (including construction), value added (% of GDP)",0.253930205,
+LAO,2008,"Industry (including construction), value added (% of GDP)",0.269497232,
+LAO,2009,"Industry (including construction), value added (% of GDP)",0.251630938,
+LAO,2010,"Industry (including construction), value added (% of GDP)",0.304660211,
+LAO,2011,"Industry (including construction), value added (% of GDP)",0.308159702,
+LAO,2012,"Industry (including construction), value added (% of GDP)",0.324366447,
+LAO,2013,"Industry (including construction), value added (% of GDP)",0.304277076,
+LAO,2014,"Industry (including construction), value added (% of GDP)",0.288150006,
+LAO,2015,"Industry (including construction), value added (% of GDP)",0.276933443,
+LAO,2016,"Industry (including construction), value added (% of GDP)",0.287595046,
+LAO,2017,"Industry (including construction), value added (% of GDP)",0.309124754,
+LAO,2018,"Industry (including construction), value added (% of GDP)",0.315331925,
+LAO,2019,"Industry (including construction), value added (% of GDP)",0.31531382,
+LAO,2020,"Industry (including construction), value added (% of GDP)",0.324163678,
+LAO,2021,"Industry (including construction), value added (% of GDP)",0.341299777,
+LAO,2005,"Services, value added (% of GDP)",0.433904135,
+LAO,2006,"Services, value added (% of GDP)",0.381438717,
+LAO,2007,"Services, value added (% of GDP)",0.416699063,
+LAO,2008,"Services, value added (% of GDP)",0.441080875,
+LAO,2009,"Services, value added (% of GDP)",0.456988802,
+LAO,2010,"Services, value added (% of GDP)",0.435714766,
+LAO,2011,"Services, value added (% of GDP)",0.417741928,
+LAO,2012,"Services, value added (% of GDP)",0.401523222,
+LAO,2013,"Services, value added (% of GDP)",0.424921486,
+LAO,2014,"Services, value added (% of GDP)",0.441576786,
+LAO,2015,"Services, value added (% of GDP)",0.441689694,
+LAO,2016,"Services, value added (% of GDP)",0.424771231,
+LAO,2017,"Services, value added (% of GDP)",0.415278261,
+LAO,2018,"Services, value added (% of GDP)",0.416083824,
+LAO,2019,"Services, value added (% of GDP)",0.415143523,
+LAO,2020,"Services, value added (% of GDP)",0.410498993,
+LAO,2021,"Services, value added (% of GDP)",0.388487056,
+MMR,2005,"Energy productivity, GDP per unit of TES",6379.09,8.760937483
+MMR,2006,"Energy productivity, GDP per unit of TES",7124.91,8.871492716
+MMR,2007,"Energy productivity, GDP per unit of TES",7700.24,8.949136634
+MMR,2008,"Energy productivity, GDP per unit of TES",8829.56,9.085973712
+MMR,2009,"Energy productivity, GDP per unit of TES",10332.4,9.243136646
+MMR,2010,"Energy productivity, GDP per unit of TES",11731.89,9.370151288
+MMR,2011,"Energy productivity, GDP per unit of TES",12222.27,9.411096791
+MMR,2012,"Energy productivity, GDP per unit of TES",11987.22,9.39167978
+MMR,2013,"Energy productivity, GDP per unit of TES",12351.78,9.421636418
+MMR,2014,"Energy productivity, GDP per unit of TES",12174.07,9.407145697
+MMR,2015,"Energy productivity, GDP per unit of TES",12616.29,9.442823375
+MMR,2016,"Energy productivity, GDP per unit of TES",12449.74,9.429535338
+MMR,2017,"Energy productivity, GDP per unit of TES",11490.63,9.349374223
+MMR,2018,"Energy productivity, GDP per unit of TES",12127.84,9.403341367
+MMR,2019,"Energy productivity, GDP per unit of TES",12925.6,9.467042483
+MMR,2020,"Energy productivity, GDP per unit of TES",11830.47,9.37851821
+MMR,2021,"Energy productivity, GDP per unit of TES",10746.68,9.282445196
+MMR,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.89,2.291524146
+MMR,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",10.88,2.474856314
+MMR,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.67,2.539236994
+MMR,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",17.19,2.900871993
+MMR,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",20.53,3.069447311
+MMR,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",20.2,3.054001182
+MMR,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",19.92,3.040705639
+MMR,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",15.63,2.811208293
+MMR,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",14.95,2.769458829
+MMR,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.88,2.630448955
+MMR,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.21,2.580974119
+MMR,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.54,2.528923535
+MMR,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.42,2.242835089
+MMR,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.98,2.30058309
+MMR,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.33,2.335052283
+MMR,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.62,2.263844265
+MMR,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.37,2.237513096
+MMR,2005,Real GDP per capita,1995.22,7.599010671
+MMR,2006,Real GDP per capita,2239.74,7.714561447
+MMR,2007,Real GDP per capita,2490.59,7.82067634
+MMR,2008,Real GDP per capita,2730.94,7.912767259
+MMR,2009,Real GDP per capita,3002.31,8.007470293
+MMR,2010,Real GDP per capita,3267.14,8.091976295
+MMR,2011,Real GDP per capita,3422.22,8.138336908
+MMR,2012,Real GDP per capita,3642.38,8.200667101
+MMR,2013,Real GDP per capita,3915.87,8.273048144
+MMR,2014,Real GDP per capita,4200.78,8.343263524
+MMR,2015,Real GDP per capita,4458.69,8.402834536
+MMR,2016,Real GDP per capita,4682.81,8.45186716
+MMR,2017,Real GDP per capita,4931.91,8.503684357
+MMR,2018,Real GDP per capita,5203.24,8.557228957
+MMR,2019,Real GDP per capita,5506.75,8.61391147
+MMR,2020,Real GDP per capita,4972.97,8.511973593
+MMR,2021,Real GDP per capita,4345.04,8.377020365
+MMR,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.466872404,
+MMR,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.439189585,
+MMR,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.43322766,
+MMR,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.402750956,
+MMR,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.381081206,
+MMR,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.368530758,
+MMR,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.324961825,
+MMR,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.305901997,
+MMR,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.295337254,
+MMR,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.278298026,
+MMR,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.267717787,
+MMR,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.256286229,
+MMR,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.234041281,
+MMR,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.220756064,
+MMR,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.208421578,
+MMR,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.224186525,
+MMR,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.227852902,
+MMR,2005,"Industry (including construction), value added (% of GDP)",0.175122046,
+MMR,2006,"Industry (including construction), value added (% of GDP)",0.19237293,
+MMR,2007,"Industry (including construction), value added (% of GDP)",0.204091297,
+MMR,2008,"Industry (including construction), value added (% of GDP)",0.226658154,
+MMR,2009,"Industry (including construction), value added (% of GDP)",0.245320051,
+MMR,2010,"Industry (including construction), value added (% of GDP)",0.264680643,
+MMR,2011,"Industry (including construction), value added (% of GDP)",0.312916488,
+MMR,2012,"Industry (including construction), value added (% of GDP)",0.323730208,
+MMR,2013,"Industry (including construction), value added (% of GDP)",0.323622196,
+MMR,2014,"Industry (including construction), value added (% of GDP)",0.344897148,
+MMR,2015,"Industry (including construction), value added (% of GDP)",0.344688213,
+MMR,2016,"Industry (including construction), value added (% of GDP)",0.348095049,
+MMR,2017,"Industry (including construction), value added (% of GDP)",0.368009211,
+MMR,2018,"Industry (including construction), value added (% of GDP)",0.369634615,
+MMR,2019,"Industry (including construction), value added (% of GDP)",0.384126111,
+MMR,2020,"Industry (including construction), value added (% of GDP)",0.375439156,
+MMR,2021,"Industry (including construction), value added (% of GDP)",0.3731089,
+MMR,2005,"Services, value added (% of GDP)",0.365,
+MMR,2006,"Services, value added (% of GDP)",0.368,
+MMR,2007,"Services, value added (% of GDP)",0.37,
+MMR,2008,"Services, value added (% of GDP)",0.370590889,
+MMR,2009,"Services, value added (% of GDP)",0.373598731,
+MMR,2010,"Services, value added (% of GDP)",0.3667886,
+MMR,2011,"Services, value added (% of GDP)",0.362121687,
+MMR,2012,"Services, value added (% of GDP)",0.370367795,
+MMR,2013,"Services, value added (% of GDP)",0.38104055,
+MMR,2014,"Services, value added (% of GDP)",0.376804826,
+MMR,2015,"Services, value added (% of GDP)",0.387594001,
+MMR,2016,"Services, value added (% of GDP)",0.395618722,
+MMR,2017,"Services, value added (% of GDP)",0.397949508,
+MMR,2018,"Services, value added (% of GDP)",0.409609321,
+MMR,2019,"Services, value added (% of GDP)",0.407452311,
+MMR,2020,"Services, value added (% of GDP)",0.400374319,
+MMR,2021,"Services, value added (% of GDP)",0.399038199,
+MYS,2005,"Energy productivity, GDP per unit of TES",7311.09,8.897284422
+MYS,2006,"Energy productivity, GDP per unit of TES",7680.77,8.946605268
+MYS,2007,"Energy productivity, GDP per unit of TES",7640.87,8.941397617
+MYS,2008,"Energy productivity, GDP per unit of TES",7568.57,8.931891542
+MYS,2009,"Energy productivity, GDP per unit of TES",7880.74,8.972303971
+MYS,2010,"Energy productivity, GDP per unit of TES",8158.56,9.006945525
+MYS,2011,"Energy productivity, GDP per unit of TES",8240.56,9.016944925
+MYS,2012,"Energy productivity, GDP per unit of TES",8557.39,9.054667367
+MYS,2013,"Energy productivity, GDP per unit of TES",7940.69,8.979881378
+MYS,2014,"Energy productivity, GDP per unit of TES",8245.39,9.017530808
+MYS,2015,"Energy productivity, GDP per unit of TES",9060.59,9.11179988
+MYS,2016,"Energy productivity, GDP per unit of TES",9121.95,9.118548496
+MYS,2017,"Energy productivity, GDP per unit of TES",9995.61,9.210001315
+MYS,2018,"Energy productivity, GDP per unit of TES",9498.49,9.158993392
+MYS,2019,"Energy productivity, GDP per unit of TES",9628.88,9.172626044
+MYS,2020,"Energy productivity, GDP per unit of TES",9496.53,9.158787044
+MYS,2021,"Energy productivity, GDP per unit of TES",9451.19,9.15400174
+MYS,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.02,1.391281903
+MYS,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.07,1.403642999
+MYS,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",2.97,1.378766095
+MYS,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",2.92,1.366091654
+MYS,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.22,1.439835128
+MYS,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.1,1.410986974
+MYS,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.24,1.444563269
+MYS,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.4,1.481604541
+MYS,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.29,1.456286733
+MYS,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.31,1.460937904
+MYS,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.48,1.499623046
+MYS,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.7,1.547562509
+MYS,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.01,1.611435915
+MYS,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.89,1.587192303
+MYS,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4,1.609437912
+MYS,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.88,1.58514522
+MYS,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.01,1.611435915
+MYS,2005,Real GDP per capita,18388.47,9.819533497
+MYS,2006,Real GDP per capita,18987.83,9.851606191
+MYS,2007,Real GDP per capita,19749.87,9.89095282
+MYS,2008,Real GDP per capita,20274.83,9.917184815
+MYS,2009,Real GDP per capita,19574.14,9.882015673
+MYS,2010,Real GDP per capita,20637.84,9.934930016
+MYS,2011,Real GDP per capita,21353.14,9.969000911
+MYS,2012,Real GDP per capita,22141.65,10.00526089
+MYS,2013,Real GDP per capita,22787.93,10.03403017
+MYS,2014,Real GDP per capita,23746.08,10.07521485
+MYS,2015,Real GDP per capita,24526.36,10.10754451
+MYS,2016,Real GDP per capita,25169.05,10.13341007
+MYS,2017,Real GDP per capita,26166.16,10.17226047
+MYS,2018,Real GDP per capita,26970.53,10.20253714
+MYS,2019,Real GDP per capita,27714.82,10.22975865
+MYS,2020,Real GDP per capita,25855.27,10.1603084
+MYS,2021,Real GDP per capita,26401.89,10.18122875
+MYS,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.082622917,
+MYS,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.086099828,
+MYS,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.099867737,
+MYS,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.099685823,
+MYS,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.092191,
+MYS,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.100899159,
+MYS,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.114533531,
+MYS,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.097937507,
+MYS,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.091133638,
+MYS,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.08873209,
+MYS,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.082874999,
+MYS,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.084625266,
+MYS,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.08598277,
+MYS,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.075120895,
+MYS,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.07241308,
+MYS,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.081660023,
+MYS,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.095662146,
+MYS,2005,"Industry (including construction), value added (% of GDP)",0.463683225,
+MYS,2006,"Industry (including construction), value added (% of GDP)",0.465156573,
+MYS,2007,"Industry (including construction), value added (% of GDP)",0.44595996,
+MYS,2008,"Industry (including construction), value added (% of GDP)",0.451050654,
+MYS,2009,"Industry (including construction), value added (% of GDP)",0.409678238,
+MYS,2010,"Industry (including construction), value added (% of GDP)",0.404989324,
+MYS,2011,"Industry (including construction), value added (% of GDP)",0.398242687,
+MYS,2012,"Industry (including construction), value added (% of GDP)",0.40135001,
+MYS,2013,"Industry (including construction), value added (% of GDP)",0.398853737,
+MYS,2014,"Industry (including construction), value added (% of GDP)",0.399244245,
+MYS,2015,"Industry (including construction), value added (% of GDP)",0.384496698,
+MYS,2016,"Industry (including construction), value added (% of GDP)",0.376832735,
+MYS,2017,"Industry (including construction), value added (% of GDP)",0.381147164,
+MYS,2018,"Industry (including construction), value added (% of GDP)",0.382914392,
+MYS,2019,"Industry (including construction), value added (% of GDP)",0.374765552,
+MYS,2020,"Industry (including construction), value added (% of GDP)",0.359347385,
+MYS,2021,"Industry (including construction), value added (% of GDP)",0.376826862,
+MYS,2005,"Services, value added (% of GDP)",0.441971529,
+MYS,2006,"Services, value added (% of GDP)",0.439262782,
+MYS,2007,"Services, value added (% of GDP)",0.445202453,
+MYS,2008,"Services, value added (% of GDP)",0.439481057,
+MYS,2009,"Services, value added (% of GDP)",0.488360218,
+MYS,2010,"Services, value added (% of GDP)",0.484774188,
+MYS,2011,"Services, value added (% of GDP)",0.477667256,
+MYS,2012,"Services, value added (% of GDP)",0.490223958,
+MYS,2013,"Services, value added (% of GDP)",0.499447288,
+MYS,2014,"Services, value added (% of GDP)",0.501226905,
+MYS,2015,"Services, value added (% of GDP)",0.520139839,
+MYS,2016,"Services, value added (% of GDP)",0.525314245,
+MYS,2017,"Services, value added (% of GDP)",0.518820155,
+MYS,2018,"Services, value added (% of GDP)",0.529910478,
+MYS,2019,"Services, value added (% of GDP)",0.541547931,
+MYS,2020,"Services, value added (% of GDP)",0.547885781,
+MYS,2021,"Services, value added (% of GDP)",0.516519356,
+PHL,2005,"Energy productivity, GDP per unit of TES",11113.07,9.315967152
+PHL,2006,"Energy productivity, GDP per unit of TES",11810.8,9.376854311
+PHL,2007,"Energy productivity, GDP per unit of TES",12298.51,9.417314703
+PHL,2008,"Energy productivity, GDP per unit of TES",12221.61,9.411042794
+PHL,2009,"Energy productivity, GDP per unit of TES",12708.8,9.450128628
+PHL,2010,"Energy productivity, GDP per unit of TES",13031.63,9.475211492
+PHL,2011,"Energy productivity, GDP per unit of TES",13368.16,9.500705841
+PHL,2012,"Energy productivity, GDP per unit of TES",13722.53,9.526867157
+PHL,2013,"Energy productivity, GDP per unit of TES",14187.87,9.560213133
+PHL,2014,"Energy productivity, GDP per unit of TES",14129.98,9.556124829
+PHL,2015,"Energy productivity, GDP per unit of TES",13814.25,9.533528333
+PHL,2016,"Energy productivity, GDP per unit of TES",13990.36,9.546195275
+PHL,2017,"Energy productivity, GDP per unit of TES",14131.29,9.556217529
+PHL,2018,"Energy productivity, GDP per unit of TES",14574.37,9.587088397
+PHL,2019,"Energy productivity, GDP per unit of TES",15352.04,9.639068779
+PHL,2020,"Energy productivity, GDP per unit of TES",14625.97,9.590622364
+PHL,2021,"Energy productivity, GDP per unit of TES",14952.11,9.612674584
+PHL,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.14,1.965712776
+PHL,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.04,2.084429083
+PHL,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.11,2.093097868
+PHL,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.21,2.105352923
+PHL,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.24,2.109000344
+PHL,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.2,2.104134154
+PHL,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.43,2.131796772
+PHL,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.7,2.163323026
+PHL,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.39,2.12704052
+PHL,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.38,2.125847914
+PHL,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.21,2.105352923
+PHL,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.02,2.081938422
+PHL,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.8,2.054123734
+PHL,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.94,2.071913275
+PHL,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.99,2.07819076
+PHL,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.87,2.063058062
+PHL,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",6.79,2.05284086
+PHL,2005,Real GDP per capita,4828.3,8.482456809
+PHL,2006,Real GDP per capita,5000.18,8.517429164
+PHL,2007,Real GDP per capita,5234.56,8.56322909
+PHL,2008,Real GDP per capita,5366.29,8.588078405
+PHL,2009,Real GDP per capita,5346.81,8.58444241
+PHL,2010,Real GDP per capita,5622.64,8.63473442
+PHL,2011,Real GDP per capita,5725.98,8.65294362
+PHL,2012,Real GDP per capita,6003.15,8.700206176
+PHL,2013,Real GDP per capita,6289.05,8.746724299
+PHL,2014,Real GDP per capita,6579.28,8.791832577
+PHL,2015,Real GDP per capita,6894.29,8.838593849
+PHL,2016,Real GDP per capita,7288.71,8.894219044
+PHL,2017,Real GDP per capita,7694.14,8.94834424
+PHL,2018,Real GDP per capita,8081.47,8.997452798
+PHL,2019,Real GDP per capita,8472.28,9.044672962
+PHL,2020,Real GDP per capita,7578.55,8.93320911
+PHL,2021,Real GDP per capita,7939.39,8.979717671
+PHL,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.13517547,
+PHL,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.133612491,
+PHL,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.136065076,
+PHL,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.145160748,
+PHL,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.145402133,
+PHL,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.137488651,
+PHL,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.140957352,
+PHL,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.13095807,
+PHL,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.124734251,
+PHL,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.122716816,
+PHL,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.109964992,
+PHL,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.102051255,
+PHL,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.101829541,
+PHL,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.096501404,
+PHL,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.088203237,
+PHL,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.10185311,
+PHL,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.10069164,
+PHL,2005,"Industry (including construction), value added (% of GDP)",0.338136763,
+PHL,2006,"Industry (including construction), value added (% of GDP)",0.334625853,
+PHL,2007,"Industry (including construction), value added (% of GDP)",0.330008609,
+PHL,2008,"Industry (including construction), value added (% of GDP)",0.327652884,
+PHL,2009,"Industry (including construction), value added (% of GDP)",0.315225427,
+PHL,2010,"Industry (including construction), value added (% of GDP)",0.323395561,
+PHL,2011,"Industry (including construction), value added (% of GDP)",0.313386828,
+PHL,2012,"Industry (including construction), value added (% of GDP)",0.313994934,
+PHL,2013,"Industry (including construction), value added (% of GDP)",0.307754466,
+PHL,2014,"Industry (including construction), value added (% of GDP)",0.310474445,
+PHL,2015,"Industry (including construction), value added (% of GDP)",0.30481951,
+PHL,2016,"Industry (including construction), value added (% of GDP)",0.302859172,
+PHL,2017,"Industry (including construction), value added (% of GDP)",0.301265506,
+PHL,2018,"Industry (including construction), value added (% of GDP)",0.305637402,
+PHL,2019,"Industry (including construction), value added (% of GDP)",0.303275079,
+PHL,2020,"Industry (including construction), value added (% of GDP)",0.283999176,
+PHL,2021,"Industry (including construction), value added (% of GDP)",0.288898091,
+PHL,2005,"Services, value added (% of GDP)",0.526687767,
+PHL,2006,"Services, value added (% of GDP)",0.531761656,
+PHL,2007,"Services, value added (% of GDP)",0.533926315,
+PHL,2008,"Services, value added (% of GDP)",0.527186368,
+PHL,2009,"Services, value added (% of GDP)",0.53937244,
+PHL,2010,"Services, value added (% of GDP)",0.539115789,
+PHL,2011,"Services, value added (% of GDP)",0.545655821,
+PHL,2012,"Services, value added (% of GDP)",0.555046996,
+PHL,2013,"Services, value added (% of GDP)",0.567511283,
+PHL,2014,"Services, value added (% of GDP)",0.566808739,
+PHL,2015,"Services, value added (% of GDP)",0.585215499,
+PHL,2016,"Services, value added (% of GDP)",0.595089573,
+PHL,2017,"Services, value added (% of GDP)",0.596904953,
+PHL,2018,"Services, value added (% of GDP)",0.597861195,
+PHL,2019,"Services, value added (% of GDP)",0.608521684,
+PHL,2020,"Services, value added (% of GDP)",0.614147714,
+PHL,2021,"Services, value added (% of GDP)",0.610410269,
+SGP,2005,"Energy productivity, GDP per unit of TES",13290.9,9.494910106
+SGP,2006,"Energy productivity, GDP per unit of TES",13487.02,9.509557163
+SGP,2007,"Energy productivity, GDP per unit of TES",15940.46,9.676678542
+SGP,2008,"Energy productivity, GDP per unit of TES",14088.68,9.553197893
+SGP,2009,"Energy productivity, GDP per unit of TES",13075.84,9.478598006
+SGP,2010,"Energy productivity, GDP per unit of TES",16031.91,9.682398764
+SGP,2011,"Energy productivity, GDP per unit of TES",19170.59,9.861184775
+SGP,2012,"Energy productivity, GDP per unit of TES",17255.68,9.755954594
+SGP,2013,"Energy productivity, GDP per unit of TES",16085.36,9.685726987
+SGP,2014,"Energy productivity, GDP per unit of TES",15268.51,9.633613309
+SGP,2015,"Energy productivity, GDP per unit of TES",14943.98,9.612130736
+SGP,2016,"Energy productivity, GDP per unit of TES",14981.17,9.614616106
+SGP,2017,"Energy productivity, GDP per unit of TES",14740.6,9.598428708
+SGP,2018,"Energy productivity, GDP per unit of TES",16535.17,9.713305382
+SGP,2019,"Energy productivity, GDP per unit of TES",15829.79,9.669712057
+SGP,2020,"Energy productivity, GDP per unit of TES",15305.69,9.636045267
+SGP,2021,"Energy productivity, GDP per unit of TES",15921.45,9.675485342
+SGP,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",7.57,2.148267733
+SGP,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.19,2.218115936
+SGP,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.67,2.269028309
+SGP,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.8,2.282382386
+SGP,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",8.72,2.274185618
+SGP,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.14,2.316487998
+SGP,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.2,2.32238772
+SGP,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",9.84,2.383242996
+SGP,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",10.26,2.421256623
+SGP,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",10.55,2.446685437
+SGP,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",10.62,2.452727751
+SGP,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.11,2.494031558
+SGP,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.04,2.48823444
+SGP,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",11.99,2.564179831
+SGP,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.15,2.576421759
+SGP,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.03,2.567254391
+SGP,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",12.38,2.593761055
+SGP,2005,Real GDP per capita,80532.02,11.29642257
+SGP,2006,Real GDP per capita,86339.31,11.36605186
+SGP,2007,Real GDP per capita,92626.08,11.43633682
+SGP,2008,Real GDP per capita,92809,11.43830967
+SGP,2009,Real GDP per capita,90657.56,11.41485564
+SGP,2010,Real GDP per capita,102779.09,11.54034694
+SGP,2011,Real GDP per capita,108661.71,11.59600396
+SGP,2012,Real GDP per capita,112620.84,11.63179094
+SGP,2013,Real GDP per capita,117231.45,11.67191399
+SGP,2014,Real GDP per capita,121027.08,11.70377786
+SGP,2015,Real GDP per capita,123609.49,11.72489069
+SGP,2016,Real GDP per capita,127031.03,11.75219454
+SGP,2017,Real GDP per capita,131700.53,11.7882935
+SGP,2018,Real GDP per capita,135345.74,11.81559521
+SGP,2019,Real GDP per capita,136063.79,11.82088645
+SGP,2020,Real GDP per capita,129829.81,11.77398742
+SGP,2021,Real GDP per capita,141471.92,11.8598636
+SGP,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000550481,
+SGP,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000488654,
+SGP,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.00042868,
+SGP,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000414322,
+SGP,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000406878,
+SGP,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.00036149,
+SGP,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000346076,
+SGP,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000332727,
+SGP,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000343752,
+SGP,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000345409,
+SGP,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000326135,
+SGP,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000315798,
+SGP,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000308009,
+SGP,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000301356,
+SGP,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000321888,
+SGP,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.00032787,
+SGP,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.000307259,
+SGP,2005,"Industry (including construction), value added (% of GDP)",0.314076522,
+SGP,2006,"Industry (including construction), value added (% of GDP)",0.308942966,
+SGP,2007,"Industry (including construction), value added (% of GDP)",0.28225771,
+SGP,2008,"Industry (including construction), value added (% of GDP)",0.264153382,
+SGP,2009,"Industry (including construction), value added (% of GDP)",0.270163194,
+SGP,2010,"Industry (including construction), value added (% of GDP)",0.266358717,
+SGP,2011,"Industry (including construction), value added (% of GDP)",0.252595926,
+SGP,2012,"Industry (including construction), value added (% of GDP)",0.250222022,
+SGP,2013,"Industry (including construction), value added (% of GDP)",0.234427286,
+SGP,2014,"Industry (including construction), value added (% of GDP)",0.241685193,
+SGP,2015,"Industry (including construction), value added (% of GDP)",0.242880229,
+SGP,2016,"Industry (including construction), value added (% of GDP)",0.232451586,
+SGP,2017,"Industry (including construction), value added (% of GDP)",0.235250597,
+SGP,2018,"Industry (including construction), value added (% of GDP)",0.253939316,
+SGP,2019,"Industry (including construction), value added (% of GDP)",0.240213524,
+SGP,2020,"Industry (including construction), value added (% of GDP)",0.232086931,
+SGP,2021,"Industry (including construction), value added (% of GDP)",0.242773629,
+SGP,2005,"Services, value added (% of GDP)",0.640731844,
+SGP,2006,"Services, value added (% of GDP)",0.648768541,
+SGP,2007,"Services, value added (% of GDP)",0.660401485,
+SGP,2008,"Services, value added (% of GDP)",0.683479618,
+SGP,2009,"Services, value added (% of GDP)",0.680060695,
+SGP,2010,"Services, value added (% of GDP)",0.678435171,
+SGP,2011,"Services, value added (% of GDP)",0.690231236,
+SGP,2012,"Services, value added (% of GDP)",0.692086271,
+SGP,2013,"Services, value added (% of GDP)",0.707623062,
+SGP,2014,"Services, value added (% of GDP)",0.703453258,
+SGP,2015,"Services, value added (% of GDP)",0.699509333,
+SGP,2016,"Services, value added (% of GDP)",0.706926033,
+SGP,2017,"Services, value added (% of GDP)",0.703527587,
+SGP,2018,"Services, value added (% of GDP)",0.693417789,
+SGP,2019,"Services, value added (% of GDP)",0.708614978,
+SGP,2020,"Services, value added (% of GDP)",0.721399748,
+SGP,2021,"Services, value added (% of GDP)",0.704767571,
+THA,2005,"Energy productivity, GDP per unit of TES",8045.75,8.993023562
+THA,2006,"Energy productivity, GDP per unit of TES",8284.01,9.022203137
+THA,2007,"Energy productivity, GDP per unit of TES",8417.69,9.038209513
+THA,2008,"Energy productivity, GDP per unit of TES",8353.98,9.030613047
+THA,2009,"Energy productivity, GDP per unit of TES",8329.49,9.027677557
+THA,2010,"Energy productivity, GDP per unit of TES",8171.52,9.008532586
+THA,2011,"Energy productivity, GDP per unit of TES",8255.4,9.018743936
+THA,2012,"Energy productivity, GDP per unit of TES",8250,9.018089684
+THA,2013,"Energy productivity, GDP per unit of TES",7877.43,8.971883924
+THA,2014,"Energy productivity, GDP per unit of TES",7985.59,8.985519164
+THA,2015,"Energy productivity, GDP per unit of TES",8170.64,9.008424902
+THA,2016,"Energy productivity, GDP per unit of TES",8191.43,9.010965836
+THA,2017,"Energy productivity, GDP per unit of TES",8538.06,9.05240621
+THA,2018,"Energy productivity, GDP per unit of TES",9047.69,9.110375275
+THA,2019,"Energy productivity, GDP per unit of TES",9037.02,9.109195403
+THA,2020,"Energy productivity, GDP per unit of TES",8946.52,9.099131678
+THA,2021,"Energy productivity, GDP per unit of TES",9267.26,9.134350939
+THA,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.98,1.605429891
+THA,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.14,1.637053079
+THA,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.23,1.654411278
+THA,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.21,1.650579856
+THA,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.36,1.678963975
+THA,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.34,1.675225653
+THA,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.41,1.688249093
+THA,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.4,1.686398954
+THA,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.37,1.680827909
+THA,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.48,1.701105101
+THA,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.49,1.702928256
+THA,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.72,1.743968805
+THA,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.92,1.778336449
+THA,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.18,1.821318271
+THA,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.08,1.805004696
+THA,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.96,1.785070481
+THA,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.19,1.822935087
+THA,2005,Real GDP per capita,12136.55,9.404059232
+THA,2006,Real GDP per capita,12634.16,9.444238683
+THA,2007,Real GDP per capita,13214.71,9.489161552
+THA,2008,Real GDP per capita,13339.88,9.498588284
+THA,2009,Real GDP per capita,13150.28,9.484274371
+THA,2010,Real GDP per capita,14043.75,9.550003939
+THA,2011,Real GDP per capita,14074.01,9.552156163
+THA,2012,Real GDP per capita,15000.08,9.615877477
+THA,2013,Real GDP per capita,15313.11,9.636529905
+THA,2014,Real GDP per capita,15382.04,9.641020883
+THA,2015,Real GDP per capita,15791.19,9.667270793
+THA,2016,Real GDP per capita,16260.04,9.696527342
+THA,2017,Real GDP per capita,16867.92,9.733228155
+THA,2018,Real GDP per capita,17526.96,9.771552599
+THA,2019,Real GDP per capita,17861.08,9.790435309
+THA,2020,Real GDP per capita,16752.53,9.726364261
+THA,2021,Real GDP per capita,16994.86,9.740725064
+THA,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.091943553,
+THA,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.094019935,
+THA,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.093476847,
+THA,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.100724338,
+THA,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.097870338,
+THA,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.105221756,
+THA,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.115917918,
+THA,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.115041002,
+THA,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.113222153,
+THA,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.100889216,
+THA,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.088727236,
+THA,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.08478077,
+THA,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.084064126,
+THA,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.082018193,
+THA,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.08128568,
+THA,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.087028521,
+THA,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.086918946,
+THA,2005,"Industry (including construction), value added (% of GDP)",0.385052107,
+THA,2006,"Industry (including construction), value added (% of GDP)",0.391468559,
+THA,2007,"Industry (including construction), value added (% of GDP)",0.394313719,
+THA,2008,"Industry (including construction), value added (% of GDP)",0.39479613,
+THA,2009,"Industry (including construction), value added (% of GDP)",0.386085989,
+THA,2010,"Industry (including construction), value added (% of GDP)",0.399217257,
+THA,2011,"Industry (including construction), value added (% of GDP)",0.379813983,
+THA,2012,"Industry (including construction), value added (% of GDP)",0.373436941,
+THA,2013,"Industry (including construction), value added (% of GDP)",0.368985885,
+THA,2014,"Industry (including construction), value added (% of GDP)",0.367630404,
+THA,2015,"Industry (including construction), value added (% of GDP)",0.361791773,
+THA,2016,"Industry (including construction), value added (% of GDP)",0.355867654,
+THA,2017,"Industry (including construction), value added (% of GDP)",0.350187595,
+THA,2018,"Industry (including construction), value added (% of GDP)",0.347424897,
+THA,2019,"Industry (including construction), value added (% of GDP)",0.335939105,
+THA,2020,"Industry (including construction), value added (% of GDP)",0.33290723,
+THA,2021,"Industry (including construction), value added (% of GDP)",0.350496469,
+THA,2005,"Services, value added (% of GDP)",0.52300434,
+THA,2006,"Services, value added (% of GDP)",0.514511507,
+THA,2007,"Services, value added (% of GDP)",0.512209434,
+THA,2008,"Services, value added (% of GDP)",0.504479532,
+THA,2009,"Services, value added (% of GDP)",0.516043674,
+THA,2010,"Services, value added (% of GDP)",0.495560987,
+THA,2011,"Services, value added (% of GDP)",0.5042681,
+THA,2012,"Services, value added (% of GDP)",0.511522057,
+THA,2013,"Services, value added (% of GDP)",0.517791962,
+THA,2014,"Services, value added (% of GDP)",0.53148038,
+THA,2015,"Services, value added (% of GDP)",0.54948099,
+THA,2016,"Services, value added (% of GDP)",0.559351576,
+THA,2017,"Services, value added (% of GDP)",0.565748279,
+THA,2018,"Services, value added (% of GDP)",0.570556911,
+THA,2019,"Services, value added (% of GDP)",0.582775215,
+THA,2020,"Services, value added (% of GDP)",0.580064249,
+THA,2021,"Services, value added (% of GDP)",0.562584585,
+VNM,2005,"Energy productivity, GDP per unit of TES",9409.43,9.149573928
+VNM,2006,"Energy productivity, GDP per unit of TES",9821.33,9.192413644
+VNM,2007,"Energy productivity, GDP per unit of TES",9775.44,9.187730689
+VNM,2008,"Energy productivity, GDP per unit of TES",9655.66,9.175403112
+VNM,2009,"Energy productivity, GDP per unit of TES",9324.19,9.14047462
+VNM,2010,"Energy productivity, GDP per unit of TES",9005.51,9.105702928
+VNM,2011,"Energy productivity, GDP per unit of TES",9566.57,9.166134534
+VNM,2012,"Energy productivity, GDP per unit of TES",9964.06,9.206840254
+VNM,2013,"Energy productivity, GDP per unit of TES",10234.86,9.23365252
+VNM,2014,"Energy productivity, GDP per unit of TES",9736.7,9.183760229
+VNM,2015,"Energy productivity, GDP per unit of TES",11290.94,9.331844476
+VNM,2016,"Energy productivity, GDP per unit of TES",10938.64,9.300148169
+VNM,2017,"Energy productivity, GDP per unit of TES",11269.46,9.329940423
+VNM,2018,"Energy productivity, GDP per unit of TES",10243.99,9.234544085
+VNM,2019,"Energy productivity, GDP per unit of TES",9770.73,9.187248802
+VNM,2020,"Energy productivity, GDP per unit of TES",9917.65,9.202172102
+VNM,2021,"Energy productivity, GDP per unit of TES",10387.67,9.248471068
+VNM,2005,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.9,1.774952351
+VNM,2006,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",5.1,1.808288771
+VNM,2007,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.95,1.78339122
+VNM,2008,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.65,1.731655545
+VNM,2009,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.43,1.691939134
+VNM,2010,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.17,1.642872689
+VNM,2011,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.44,1.693779061
+VNM,2012,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.72,1.743968805
+VNM,2013,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.74,1.74745921
+VNM,2014,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.56,1.715598108
+VNM,2015,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.31,1.669591835
+VNM,2016,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.12,1.633154439
+VNM,2017,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",4.35,1.677096561
+VNM,2018,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.68,1.54329811
+VNM,2019,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.27,1.451613827
+VNM,2020,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.24,1.444563269
+VNM,2021,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",3.47,1.497388409
+VNM,2005,Real GDP per capita,4791.71,8.474851292
+VNM,2006,Real GDP per capita,5058.72,8.529066425
+VNM,2007,Real GDP per capita,5324.42,8.580246861
+VNM,2008,Real GDP per capita,5524,8.617038526
+VNM,2009,Real GDP per capita,5735.7,8.654639411
+VNM,2010,Real GDP per capita,6034.66,8.70544049
+VNM,2011,Real GDP per capita,6348.13,8.756073075
+VNM,2012,Real GDP per capita,6619.6,8.797941279
+VNM,2013,Real GDP per capita,6905.23,8.840179182
+VNM,2014,Real GDP per capita,7260.01,8.890274217
+VNM,2015,Real GDP per capita,7671.58,8.945408213
+VNM,2016,Real GDP per capita,8082.34,8.997560432
+VNM,2017,Real GDP per capita,8536.4,9.052211791
+VNM,2018,Real GDP per capita,9072.56,9.113119969
+VNM,2019,Real GDP per capita,9646.37,9.174440618
+VNM,2020,Real GDP per capita,9831.18,9.193415959
+VNM,2021,Real GDP per capita,9995.02,9.209942293
+VNM,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",0.192999789,
+VNM,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",0.187267855,
+VNM,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",0.186550997,
+VNM,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",0.204131439,
+VNM,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",0.191684599,
+VNM,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",0.153750907,
+VNM,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",0.162591485,
+VNM,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",0.161995076,
+VNM,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",0.152156123,
+VNM,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",0.148803489,
+VNM,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",0.144747262,
+VNM,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",0.138182554,
+VNM,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",0.129298795,
+VNM,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",0.123066684,
+VNM,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",0.117845286,
+VNM,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",0.126554036,
+VNM,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",0.126030905,
+VNM,2005,"Industry (including construction), value added (% of GDP)",0.381311399,
+VNM,2006,"Industry (including construction), value added (% of GDP)",0.38584731,
+VNM,2007,"Industry (including construction), value added (% of GDP)",0.385116249,
+VNM,2008,"Industry (including construction), value added (% of GDP)",0.370776964,
+VNM,2009,"Industry (including construction), value added (% of GDP)",0.373881864,
+VNM,2010,"Industry (including construction), value added (% of GDP)",0.330228771,
+VNM,2011,"Industry (including construction), value added (% of GDP)",0.345804088,
+VNM,2012,"Industry (including construction), value added (% of GDP)",0.358602324,
+VNM,2013,"Industry (including construction), value added (% of GDP)",0.355751504,
+VNM,2014,"Industry (including construction), value added (% of GDP)",0.352985685,
+VNM,2015,"Industry (including construction), value added (% of GDP)",0.342665466,
+VNM,2016,"Industry (including construction), value added (% of GDP)",0.341152289,
+VNM,2017,"Industry (including construction), value added (% of GDP)",0.353903641,
+VNM,2018,"Industry (including construction), value added (% of GDP)",0.365424334,
+VNM,2019,"Industry (including construction), value added (% of GDP)",0.368031369,
+VNM,2020,"Industry (including construction), value added (% of GDP)",0.367437133,
+VNM,2021,"Industry (including construction), value added (% of GDP)",0.373915193,
+VNM,2005,"Services, value added (% of GDP)",0.425688812,
+VNM,2006,"Services, value added (% of GDP)",0.426884835,
+VNM,2007,"Services, value added (% of GDP)",0.428332755,
+VNM,2008,"Services, value added (% of GDP)",0.425091597,
+VNM,2009,"Services, value added (% of GDP)",0.434433538,
+VNM,2010,"Services, value added (% of GDP)",0.40627372,
+VNM,2011,"Services, value added (% of GDP)",0.389070145,
+VNM,2012,"Services, value added (% of GDP)",0.391188401,
+VNM,2013,"Services, value added (% of GDP)",0.405420101,
+VNM,2014,"Services, value added (% of GDP)",0.409236093,
+VNM,2015,"Services, value added (% of GDP)",0.421930088,
+VNM,2016,"Services, value added (% of GDP)",0.4285449,
+VNM,2017,"Services, value added (% of GDP)",0.425807243,
+VNM,2018,"Services, value added (% of GDP)",0.421709179,
+VNM,2019,"Services, value added (% of GDP)",0.424687228,
+VNM,2020,"Services, value added (% of GDP)",0.418311604,
+VNM,2021,"Services, value added (% of GDP)",0.412574401,
